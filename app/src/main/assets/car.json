@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "colors": ["red", "black", "white"],
+    "features": {
+      "engine": "V6",
+      "transmission": "Automatic",
+      "interior": "Leather"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=1"
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2024,
+    "colors": ["blue", "silver", "gray"],
+    "features": {
+      "engine": "Inline-4",
+      "transmission": "CVT",
+      "interior": "Cloth"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=2"
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2022,
+    "colors": ["yellow", "green", "orange"],
+    "features": {
+      "engine": "V8",
+      "transmission": "Manual",
+      "interior": "Suede"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=3"
+  },
+  {
+    "id": 4,
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 2023,
+    "colors": ["black", "red", "white"],
+    "features": {
+      "engine": "V6",
+      "transmission": "Automatic",
+      "interior": "Leather"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=4"
+  },
+  {
+    "id": 5,
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2024,
+    "colors": ["white", "black", "blue"],
+    "features": {
+      "engine": "Inline-4",
+      "transmission": "Automatic",
+      "interior": "Leather"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=5"
+  },
+  {
+    "id": 6,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2023,
+    "colors": ["silver", "gray", "black"],
+    "features": {
+      "engine": "Inline-4",
+      "transmission": "Automatic",
+      "interior": "Leather"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=6"
+  },
+  {
+    "id": 7,
+    "make": "Audi",
+    "model": "A4",
+    "year": 2024,
+    "colors": ["black", "white", "red"],
+    "features": {
+      "engine": "Inline-4",
+      "transmission": "Automatic",
+      "interior": "Leather"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=7"
+  },
+  {
+    "id": 8,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2023,
+    "colors": ["red", "blue", "white"],
+    "features": {
+      "engine": "Electric",
+      "transmission": "Automatic",
+      "interior": "Synthetic Leather"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=8"
+  },
+  {
+    "id": 9,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 2022,
+    "colors": ["gray", "black", "blue"],
+    "features": {
+      "engine": "Inline-4",
+      "transmission": "Automatic",
+      "interior": "Cloth"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=9"
+  },
+  {
+    "id": 10,
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2023,
+    "colors": ["green", "black", "silver"],
+    "features": {
+      "engine": "Flat-4",
+      "transmission": "CVT",
+      "interior": "Cloth"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=10"
+  }
+]
